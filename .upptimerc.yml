@@ -12,29 +12,29 @@ sites:
   - name: HHF Notes
     url: https://notes.hhf.technology/
   - name: HHF Firewall API
-    url: $HHF_Firewall_API
+    url: $HHF_FIREWALL_API
   - name: HHF Node 1
-    url: $HHF_Node_1
+    url: $HHF_NODE_1
   - name: HHF Node 2
-    url: $HHF_Node_2
+    url: $HHF_NODE_2
   - name: HHF Node 3
-    url: $HHF_Node_3
+    url: $HHF_NODE_3
   - name: HHF Database Cluster Node 1
-    url: $HHF_Database_Cluster_Node_1
+    url: $HHF_DATABASE_CLUSTER_NODE_1
   - name: HHF Database Cluster Node 2
-    url: $HHF_Database_Cluster_Node_2
+    url: $HHF_DATABASE_CLUSTER_NODE_2
   - name: HHF Database Cluster Node 3
-    url: $HHF_Database_Cluster_Node_3
+    url: $HHF_DATABASE_CLUSTER_NODE_3
   - name: HHF HA Proxy Cluster Node 1
-    url: $HHF_HA_Proxy_Cluster_Node_1
+    url: $HHF_HA_PROXY_CLUSTER_NODE_1
   - name: HHF HA Proxy Cluster Node 2
-    url: $HHF_HA_Proxy_Cluster_Node_2
+    url: $HHF_HA_PROXY_CLUSTER_NODE_2
   - name: HHF HA Proxy Cluster Node 3
-    url: $HHF_HA_Proxy_Cluster_Node_3
+    url: $HHF_HA_PROXY_CLUSTER_NODE_3
   - name: HHF Podman Node 1
-    url: $HHF_Podman_Node_1
+    url: $HHF_PODMAN_NODE_1
   - name: HHF_Podman_Node 2
-    url: $HHF_Podman_Node_2
+    url: $HHF_PODMAN_NODE_2
 
 
 status-website:
