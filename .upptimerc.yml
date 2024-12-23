@@ -45,25 +45,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: hhf services status
   introTitle: "**HHF Technology Status** is the uptime monitor and status page, powered entirely by GitHub."
-  introMessage: # Welcome to HHF Technology Status
-
-This page provides real-time and historical information about the operational status of HHF Technology's services and infrastructure. Here you can monitor the availability and performance of our systems, view incident history, and subscribe to updates.
-
-## What You'll Find Here
-
-- **Live Status Indicators**: Quick visual overview of all our service components
-- **Incident Reports**: Detailed information about any ongoing or resolved incidents
-- **Performance Metrics**: Historical uptime and response time data
-- **Scheduled Maintenance**: Upcoming planned maintenance windows
-- **Status Updates**: Subscribe to receive notifications about service status changes
-
-We are committed to transparency and maintaining clear communication about our service reliability. If you experience any issues not reflected on this status page, please contact our support team.
-
-## Service Level Commitment
-
-Our team works diligently to maintain 99.9% uptime across all critical services. We continuously monitor our infrastructure and respond to incidents 24/7 to ensure minimal disruption to your operations.
-
-For urgent inquiries, please reach out to our support team at support@hhf.technology
+  introMessage: Welcome to HHF Technology Status This page provides real-time and historical information about the operational status of HHF Technology's services and infrastructure. Here you can monitor the availability and performance of our systems, view incident history, and subscribe to updates.
   navbar:
     - title: Status
       href: /
