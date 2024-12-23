@@ -1,21 +1,41 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: hhftechnology # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: HHF Forum
+    url: https://forum.hhf.technology
+  - name: HHF Git
+    url: https://git.hhf.technology
+  - name: HHF Cheat-Sheet
+    url: https://cheetsheet.hhf.technology
+  - name: HHF Notes
+    url: https://notes.hhf.technology/
+  - name: HHF Firewall API
+    url: $HHF_Firewall_API
+  - name: HHF Node 1
+    url: $HHF_Node_1
+  - name: HHF Node 2
+    url: $HHF_Node_2
+  - name: HHF Node 3
+    url: $HHF_Node_3
+  - name: HHF Database Cluster Node 1
+    url: $HHF_Database_Cluster_Node_1
+  - name: HHF Database Cluster Node 2
+    url: $HHF_Database_Cluster_Node_2
+  - name: HHF Database Cluster Node 3
+    url: $HHF_Database_Cluster_Node_3
+  - name: HHF HA Proxy Cluster Node 1
+    url: $HHF_HA_Proxy_Cluster_Node_1
+  - name: HHF HA Proxy Cluster Node 2
+    url: $HHF_HA_Proxy_Cluster_Node_2
+  - name: HHF HA Proxy Cluster Node 3
+    url: $HHF_HA_Proxy_Cluster_Node_3
+  - name: HHF Podman Node 1
+    url: $HHF_Podman_Node_1
+  - name: HHF_Podman_Node 2
+    url: $HHF_Podman_Node_2
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -23,14 +43,36 @@ status-website:
   cname: status.hhf.technology
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: hhf services status
+  introTitle: "**HHF Technology Status** is the uptime monitor and status page, powered entirely by GitHub."
+  introMessage: # Welcome to HHF Technology Status
+
+This page provides real-time and historical information about the operational status of HHF Technology's services and infrastructure. Here you can monitor the availability and performance of our systems, view incident history, and subscribe to updates.
+
+## What You'll Find Here
+
+- **Live Status Indicators**: Quick visual overview of all our service components
+- **Incident Reports**: Detailed information about any ongoing or resolved incidents
+- **Performance Metrics**: Historical uptime and response time data
+- **Scheduled Maintenance**: Upcoming planned maintenance windows
+- **Status Updates**: Subscribe to receive notifications about service status changes
+
+We are committed to transparency and maintaining clear communication about our service reliability. If you experience any issues not reflected on this status page, please contact our support team.
+
+## Service Level Commitment
+
+Our team works diligently to maintain 99.9% uptime across all critical services. We continuously monitor our infrastructure and respond to incidents 24/7 to ensure minimal disruption to your operations.
+
+For urgent inquiries, please reach out to our support team at support@hhf.technology
   navbar:
     - title: Status
       href: /
+    - title: Forum
+      href: https://forum.hhf.technology
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  status-website:
+    theme: ocean
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
