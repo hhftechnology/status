@@ -53,8 +53,7 @@ status-website:
       href: https://forum.hhf.technology
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  status-website:
-    theme: ocean
+  theme: ocean
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
