@@ -33,7 +33,7 @@ sites:
     url: $HHF_HA_PROXY_CLUSTER_NODE_3
   - name: HHF Podman Node 1
     url: $HHF_PODMAN_NODE_1
-  - name: HHF_Podman_Node 2
+  - name: HHF Podman Node 2
     url: $HHF_PODMAN_NODE_2
 
 
@@ -42,8 +42,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.hhf.technology
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: hhf services status
+  logoUrl: https://raw.githubusercontent.com/hhftechnology/status/refs/heads/master/assets/logo.png
+  favicon: https://raw.githubusercontent.com/hhftechnology/status/refs/heads/master/assets/logo.png
+  name: HHF Services Status
   introTitle: "**HHF Technology Status** is the uptime monitor and status page, powered entirely by GitHub."
   introMessage: Welcome to HHF Technology Status This page provides real-time and historical information about the operational status of HHF Technology's services and infrastructure. Here you can monitor the availability and performance of our systems, view incident history, and subscribe to updates.
   navbar:
@@ -53,7 +54,7 @@ status-website:
       href: https://forum.hhf.technology
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  theme: ocean
+  theme: light
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
