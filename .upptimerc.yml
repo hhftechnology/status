@@ -8,7 +8,7 @@ sites:
   - name: HHF Git
     url: https://git.hhf.technology
   - name: HHF Cheat-Sheet
-    url: https://cheetsheet.hhf.technology
+    url: https://cheatsheet.hhf.technology
   - name: HHF Notes
     url: https://notes.hhf.technology/
   - name: HHF Firewall API
