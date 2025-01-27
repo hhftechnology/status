@@ -1,7 +1,7 @@
 url: $HHF_HA_PROXY_CLUSTER_NODE_2
 status: up
 code: 200
-responseTime: 372
-lastUpdated: 2025-01-26T23:14:04.785Z
+responseTime: 256
+lastUpdated: 2025-01-27T23:15:15.351Z
 startTime: 2024-12-23T06:57:22.095Z
 generator: Upptime <https://github.com/upptime/upptime>
