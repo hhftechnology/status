@@ -1,7 +1,7 @@
 url: https://git.hhf.technology
-status: up
-code: 200
-responseTime: 1249
-lastUpdated: 2025-03-31T23:16:37.575Z
+status: down
+code: 502
+responseTime: 15682
+lastUpdated: 2025-04-01T03:43:42.082Z
 startTime: 2024-12-23T06:57:05.991Z
 generator: Upptime <https://github.com/upptime/upptime>
