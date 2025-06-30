@@ -1,7 +1,7 @@
 url: $HHF_DATABASE_CLUSTER_NODE_3
-status: down
-code: 429
-responseTime: 378
-lastUpdated: 2025-06-30T17:35:58.242Z
+status: up
+code: 200
+responseTime: 36
+lastUpdated: 2025-06-30T17:46:36.837Z
 startTime: 2024-12-23T06:57:18.882Z
 generator: Upptime <https://github.com/upptime/upptime>
