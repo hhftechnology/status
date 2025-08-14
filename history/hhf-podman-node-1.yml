@@ -1,7 +1,7 @@
 url: $HHF_PODMAN_NODE_1
-status: up
-code: 200
-responseTime: 643
-lastUpdated: 2025-08-13T23:18:37.469Z
+status: down
+code: 500
+responseTime: 416
+lastUpdated: 2025-08-14T08:21:29.055Z
 startTime: 2024-12-23T06:57:25.579Z
 generator: Upptime <https://github.com/upptime/upptime>
