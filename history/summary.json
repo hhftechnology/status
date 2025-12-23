@@ -11,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.69%",
     "time": 1109,
-    "timeDay": 1292,
-    "timeWeek": 1012,
-    "timeMonth": 1051,
+    "timeDay": 828,
+    "timeWeek": 970,
+    "timeMonth": 1047,
     "timeYear": 1109,
     "dailyMinutesDown": {
       "2025-12-06": 19,
@@ -41,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.hhf.technology.ico",
     "slug": "hhf-git",
     "status": "down",
-    "uptime": "64.70%",
+    "uptime": "64.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "47.58%",
-    "uptimeYear": "64.70%",
-    "time": 2042,
-    "timeDay": 3912,
-    "timeWeek": 3807,
-    "timeMonth": 2592,
-    "timeYear": 2042,
+    "uptimeMonth": "47.06%",
+    "uptimeYear": "64.67%",
+    "time": 2047,
+    "timeDay": 3949,
+    "timeWeek": 3723,
+    "timeMonth": 2697,
+    "timeYear": 2047,
     "dailyMinutesDown": {
-      "2025-12-22": 1294,
+      "2025-12-23": 82,
+      "2025-12-22": 1440,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
       "2025-12-19": 1440,
@@ -206,8 +207,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 287,
-    "timeDay": 122,
-    "timeWeek": 269,
+    "timeDay": 148,
+    "timeWeek": 172,
     "timeMonth": 289,
     "timeYear": 287,
     "dailyMinutesDown": {
@@ -226,9 +227,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 226,
-    "timeDay": 268,
-    "timeWeek": 207,
-    "timeMonth": 233,
+    "timeDay": 148,
+    "timeWeek": 212,
+    "timeMonth": 228,
     "timeYear": 226,
     "dailyMinutesDown": {}
   },
@@ -238,18 +239,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hhf-firewall-api",
     "status": "down",
-    "uptime": "89.88%",
+    "uptime": "89.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "89.88%",
-    "time": 177,
-    "timeDay": 48,
-    "timeWeek": 96,
-    "timeMonth": 102,
-    "timeYear": 177,
+    "uptimeYear": "89.85%",
+    "time": 176,
+    "timeDay": 40,
+    "timeWeek": 89,
+    "timeMonth": 97,
+    "timeYear": 176,
     "dailyMinutesDown": {
-      "2025-12-22": 1294,
+      "2025-12-23": 82,
+      "2025-12-22": 1440,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
       "2025-12-19": 1440,
@@ -287,8 +289,7 @@
       "2025-03-27": 473,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
-      "2025-03-24": 411,
-      "2024-12-23": 34
+      "2025-03-24": 411
     }
   },
   {
@@ -303,13 +304,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 598,
-    "timeDay": 545,
-    "timeWeek": 615,
+    "timeDay": 364,
+    "timeWeek": 564,
     "timeMonth": 570,
     "timeYear": 598,
-    "dailyMinutesDown": {
-      "2024-12-23": 34
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "HHF Node 2",
@@ -318,22 +317,20 @@
     "slug": "hhf-node-2",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 134,
-    "timeDay": 236,
+    "timeDay": 237,
     "timeWeek": 136,
     "timeMonth": 175,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2025-12-22": 15,
       "2025-09-02": 31,
       "2025-07-02": 36,
       "2025-04-29": 17,
-      "2025-04-28": 19,
-      "2024-12-23": 34
+      "2025-04-28": 19
     }
   },
   {
@@ -348,13 +345,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 145,
-    "timeDay": 81,
-    "timeWeek": 105,
+    "timeDay": 114,
+    "timeWeek": 112,
     "timeMonth": 143,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2025-05-12": 20,
-      "2024-12-23": 34
+      "2025-05-12": 20
     }
   },
   {
@@ -368,18 +364,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.95%",
-    "time": 328,
-    "timeDay": 163,
-    "timeWeek": 190,
-    "timeMonth": 191,
-    "timeYear": 328,
+    "time": 329,
+    "timeDay": 423,
+    "timeWeek": 230,
+    "timeMonth": 200,
+    "timeYear": 329,
     "dailyMinutesDown": {
       "2025-12-05": 39,
       "2025-11-12": 25,
       "2025-10-20": 144,
       "2025-07-31": 21,
-      "2025-07-08": 16,
-      "2024-12-23": 34
+      "2025-07-08": 16
     }
   },
   {
@@ -393,15 +388,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 457,
-    "timeDay": 405,
-    "timeWeek": 418,
-    "timeMonth": 569,
-    "timeYear": 457,
+    "time": 459,
+    "timeDay": 961,
+    "timeWeek": 507,
+    "timeMonth": 584,
+    "timeYear": 459,
     "dailyMinutesDown": {
       "2025-12-11": 17,
-      "2025-01-30": 17,
-      "2024-12-23": 34
+      "2025-01-30": 17
     }
   },
   {
@@ -411,9 +405,9 @@
     "slug": "hhf-database-cluster-node-3",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 71,
     "timeDay": 108,
@@ -421,12 +415,10 @@
     "timeMonth": 57,
     "timeYear": 71,
     "dailyMinutesDown": {
-      "2025-12-22": 15,
       "2025-09-02": 31,
       "2025-07-02": 36,
       "2025-04-29": 17,
-      "2025-04-28": 19,
-      "2024-12-23": 34
+      "2025-04-28": 19
     }
   },
   {
@@ -441,16 +433,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 239,
-    "timeDay": 302,
-    "timeWeek": 455,
-    "timeMonth": 266,
+    "timeDay": 158,
+    "timeWeek": 445,
+    "timeMonth": 265,
     "timeYear": 239,
     "dailyMinutesDown": {
       "2025-11-18": 43,
       "2025-06-17": 185,
       "2025-06-12": 106,
-      "2025-04-21": 76,
-      "2024-12-23": 34
+      "2025-04-21": 76
     }
   },
   {
@@ -464,11 +455,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
-    "time": 273,
-    "timeDay": 342,
-    "timeWeek": 278,
-    "timeMonth": 323,
-    "timeYear": 273,
+    "time": 274,
+    "timeDay": 371,
+    "timeWeek": 294,
+    "timeMonth": 322,
+    "timeYear": 274,
     "dailyMinutesDown": {
       "2025-09-22": 20,
       "2025-07-31": 87,
@@ -482,8 +473,7 @@
       "2025-07-22": 19,
       "2025-07-21": 17,
       "2025-07-20": 102,
-      "2025-07-17": 19,
-      "2024-12-23": 34
+      "2025-07-17": 19
     }
   },
   {
@@ -497,16 +487,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 218,
-    "timeDay": 109,
-    "timeWeek": 190,
-    "timeMonth": 198,
-    "timeYear": 218,
+    "time": 217,
+    "timeDay": 89,
+    "timeWeek": 189,
+    "timeMonth": 194,
+    "timeYear": 217,
     "dailyMinutesDown": {
       "2025-11-18": 160,
       "2025-11-06": 18,
-      "2025-01-22": 18,
-      "2024-12-23": 34
+      "2025-01-22": 18
     }
   },
   {
@@ -520,15 +509,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.92%",
-    "time": 511,
-    "timeDay": 512,
-    "timeWeek": 548,
-    "timeMonth": 468,
-    "timeYear": 511,
+    "time": 510,
+    "timeDay": 223,
+    "timeWeek": 481,
+    "timeMonth": 469,
+    "timeYear": 510,
     "dailyMinutesDown": {
       "2025-12-05": 22,
-      "2025-08-14": 339,
-      "2024-12-23": 34
+      "2025-08-14": 339
     }
   },
   {
@@ -543,14 +531,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 316,
-    "timeDay": 143,
-    "timeWeek": 223,
-    "timeMonth": 222,
+    "timeDay": 123,
+    "timeWeek": 215,
+    "timeMonth": 217,
     "timeYear": 316,
     "dailyMinutesDown": {
       "2025-11-18": 35,
-      "2025-06-12": 40,
-      "2024-12-23": 34
+      "2025-06-12": 40
     }
   }
 ]
