@@ -1,7 +1,7 @@
 url: $HHF_NODE_2
-status: down
-code: 429
-responseTime: 478
-lastUpdated: 2026-04-22T01:47:26.336Z
+status: up
+code: 200
+responseTime: 85
+lastUpdated: 2026-04-22T04:33:25.840Z
 startTime: 2024-12-23T06:57:11.883Z
 generator: Upptime <https://github.com/upptime/upptime>
