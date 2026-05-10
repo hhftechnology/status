@@ -1,7 +1,7 @@
 url: https://forum.hhf.technology
-status: up
-code: 200
-responseTime: 1084
-lastUpdated: 2026-05-09T23:49:43.060Z
+status: down
+code: 502
+responseTime: 10275
+lastUpdated: 2026-05-10T04:55:42.782Z
 startTime: 2024-12-23T06:57:04.607Z
 generator: Upptime <https://github.com/upptime/upptime>
