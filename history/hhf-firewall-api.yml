@@ -1,7 +1,7 @@
 url: $HHF_FIREWALL_API
-status: up
-code: 200
-responseTime: 57
-lastUpdated: 2026-05-27T05:56:04.803Z
+status: down
+code: 403
+responseTime: 104
+lastUpdated: 2026-05-27T09:36:33.312Z
 startTime: 2024-12-23T06:57:08.317Z
 generator: Upptime <https://github.com/upptime/upptime>
