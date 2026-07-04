@@ -40,7 +40,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.hhf.technology.ico",
     "slug": "hhf-git",
     "status": "down",
-    "uptime": "59.19%",
+    "uptime": "59.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "5.88%",
@@ -48,7 +48,7 @@
     "time": 2453,
     "timeDay": 33,
     "timeWeek": 3032,
-    "timeMonth": 3391,
+    "timeMonth": 3376,
     "timeYear": 2150,
     "dailyMinutesDown": {
       "2025-08-05": 273,
@@ -177,7 +177,7 @@
       "2026-05-10": 1440,
       "2026-05-09": 1440,
       "2026-05-08": 1066,
-      "2026-07-04": 78,
+      "2026-07-04": 155,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
@@ -223,7 +223,7 @@
     "time": 272,
     "timeDay": 153,
     "timeWeek": 213,
-    "timeMonth": 178,
+    "timeMonth": 179,
     "timeYear": 274,
     "dailyMinutesDown": {
       "2025-11-18": 82
@@ -253,11 +253,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hhf-firewall-api",
     "status": "down",
-    "uptime": "59.48%",
+    "uptime": "59.47%",
     "uptimeDay": "6.19%",
     "uptimeWeek": "4.23%",
     "uptimeMonth": "3.74%",
-    "uptimeYear": "38.80%",
+    "uptimeYear": "38.78%",
     "time": 137,
     "timeDay": 80,
     "timeWeek": 72,
@@ -492,7 +492,7 @@
       "2026-07-01": 1374,
       "2026-07-03": 1350,
       "2026-07-02": 1440,
-      "2026-07-04": 78
+      "2026-07-04": 155
     }
   },
   {
@@ -509,7 +509,7 @@
     "time": 661,
     "timeDay": 349,
     "timeWeek": 575,
-    "timeMonth": 926,
+    "timeMonth": 933,
     "timeYear": 679,
     "dailyMinutesDown": {
       "2026-06-06": 85,
@@ -531,7 +531,7 @@
     "time": 128,
     "timeDay": 90,
     "timeWeek": 85,
-    "timeMonth": 78,
+    "timeMonth": 77,
     "timeYear": 130,
     "dailyMinutesDown": {
       "2025-09-02": 31,
@@ -556,7 +556,7 @@
     "time": 166,
     "timeDay": 485,
     "timeWeek": 407,
-    "timeMonth": 336,
+    "timeMonth": 344,
     "timeYear": 171,
     "dailyMinutesDown": {}
   },
@@ -574,7 +574,7 @@
     "time": 293,
     "timeDay": 365,
     "timeWeek": 206,
-    "timeMonth": 274,
+    "timeMonth": 280,
     "timeYear": 289,
     "dailyMinutesDown": {
       "2025-07-08": 16,
@@ -622,7 +622,7 @@
     "time": 74,
     "timeDay": 75,
     "timeWeek": 84,
-    "timeMonth": 74,
+    "timeMonth": 73,
     "timeYear": 74,
     "dailyMinutesDown": {
       "2025-09-02": 31,
@@ -647,7 +647,7 @@
     "time": 240,
     "timeDay": 109,
     "timeWeek": 182,
-    "timeMonth": 185,
+    "timeMonth": 183,
     "timeYear": 240,
     "dailyMinutesDown": {
       "2025-11-18": 43,
@@ -727,7 +727,7 @@
     "time": 515,
     "timeDay": 203,
     "timeWeek": 398,
-    "timeMonth": 458,
+    "timeMonth": 454,
     "timeYear": 511,
     "dailyMinutesDown": {
       "2025-08-14": 339,
