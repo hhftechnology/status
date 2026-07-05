@@ -40,7 +40,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.hhf.technology.ico",
     "slug": "hhf-git",
     "status": "down",
-    "uptime": "58.99%",
+    "uptime": "58.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -49,7 +49,7 @@
     "timeDay": 3881,
     "timeWeek": 3043,
     "timeMonth": 3543,
-    "timeYear": 2150,
+    "timeYear": 2145,
     "dailyMinutesDown": {
       "2025-08-05": 273,
       "2025-08-04": 1440,
@@ -176,7 +176,7 @@
       "2026-05-10": 1440,
       "2026-05-09": 1440,
       "2026-05-08": 1066,
-      "2026-07-05": 1302,
+      "2026-07-05": 1422,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
@@ -244,7 +244,7 @@
     "timeDay": 160,
     "timeWeek": 254,
     "timeMonth": 169,
-    "timeYear": 222,
+    "timeYear": 223,
     "dailyMinutesDown": {}
   },
   {
@@ -252,14 +252,14 @@
     "url": "$HHF_FIREWALL_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hhf-firewall-api",
-    "status": "down",
+    "status": "up",
     "uptime": "59.29%",
-    "uptimeDay": "7.55%",
-    "uptimeWeek": "5.30%",
+    "uptimeDay": "7.57%",
+    "uptimeWeek": "5.31%",
     "uptimeMonth": "3.99%",
-    "uptimeYear": "38.31%",
-    "time": 137,
-    "timeDay": 85,
+    "uptimeYear": "38.29%",
+    "time": 136,
+    "timeDay": 81,
     "timeWeek": 76,
     "timeMonth": 58,
     "timeYear": 112,
@@ -492,7 +492,7 @@
       "2026-07-01": 1374,
       "2026-07-03": 1350,
       "2026-07-02": 1440,
-      "2026-07-05": 1193,
+      "2026-07-05": 1313,
       "2026-07-04": 1440
     }
   },
@@ -602,7 +602,7 @@
     "timeDay": 547,
     "timeWeek": 581,
     "timeMonth": 496,
-    "timeYear": 558,
+    "timeYear": 559,
     "dailyMinutesDown": {
       "2025-12-11": 17,
       "2026-04-18": 48,
@@ -649,7 +649,7 @@
     "timeDay": 97,
     "timeWeek": 175,
     "timeMonth": 182,
-    "timeYear": 239,
+    "timeYear": 238,
     "dailyMinutesDown": {
       "2025-11-18": 43,
       "2026-02-02": 48
@@ -750,7 +750,7 @@
     "timeDay": 214,
     "timeWeek": 208,
     "timeMonth": 170,
-    "timeYear": 251,
+    "timeYear": 250,
     "dailyMinutesDown": {
       "2025-11-18": 35,
       "2026-03-25": 53
