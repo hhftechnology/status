@@ -40,7 +40,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.hhf.technology.ico",
     "slug": "hhf-git",
     "status": "down",
-    "uptime": "58.08%",
+    "uptime": "58.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -49,7 +49,7 @@
     "timeDay": 4020,
     "timeWeek": 3731,
     "timeMonth": 3526,
-    "timeYear": 2141,
+    "timeYear": 2136,
     "dailyMinutesDown": {
       "2025-08-05": 273,
       "2025-08-04": 1440,
@@ -167,7 +167,7 @@
       "2026-05-10": 1440,
       "2026-05-09": 1440,
       "2026-05-08": 1066,
-      "2026-07-14": 1079,
+      "2026-07-14": 1408,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
@@ -252,15 +252,15 @@
     "url": "$HHF_FIREWALL_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hhf-firewall-api",
-    "status": "down",
-    "uptime": "58.51%",
-    "uptimeDay": "12.35%",
+    "status": "up",
+    "uptime": "58.49%",
+    "uptimeDay": "4.33%",
     "uptimeWeek": "5.07%",
     "uptimeMonth": "5.52%",
-    "uptimeYear": "36.11%",
+    "uptimeYear": "36.05%",
     "time": 130,
-    "timeDay": 67,
-    "timeWeek": 85,
+    "timeDay": 61,
+    "timeWeek": 83,
     "timeMonth": 65,
     "timeYear": 109,
     "dailyMinutesDown": {
@@ -502,7 +502,7 @@
       "2026-07-11": 1440,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
-      "2026-07-14": 1017
+      "2026-07-14": 1346
     }
   },
   {
@@ -633,7 +633,7 @@
     "timeDay": 79,
     "timeWeek": 120,
     "timeMonth": 85,
-    "timeYear": 75,
+    "timeYear": 76,
     "dailyMinutesDown": {
       "2025-09-02": 31,
       "2026-01-17": 20,
@@ -680,7 +680,7 @@
     "timeDay": 296,
     "timeWeek": 325,
     "timeMonth": 319,
-    "timeYear": 285,
+    "timeYear": 286,
     "dailyMinutesDown": {
       "2025-07-17": 19,
       "2025-07-20": 102,
@@ -713,7 +713,7 @@
     "timeDay": 129,
     "timeWeek": 173,
     "timeMonth": 120,
-    "timeYear": 196,
+    "timeYear": 197,
     "dailyMinutesDown": {
       "2025-11-06": 18,
       "2025-11-18": 160,
