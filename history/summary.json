@@ -38,7 +38,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.hhf.technology.ico",
     "slug": "hhf-git",
     "status": "down",
-    "uptime": "56.35%",
+    "uptime": "56.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -147,7 +147,7 @@
       "2026-05-10": 1440,
       "2026-05-09": 1440,
       "2026-05-08": 1066,
-      "2026-08-01": 149,
+      "2026-08-01": 721,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
@@ -251,11 +251,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hhf-firewall-api",
     "status": "down",
-    "uptime": "56.98%",
+    "uptime": "56.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "4.62%",
     "uptimeMonth": "5.29%",
-    "uptimeYear": "31.68%",
+    "uptimeYear": "31.58%",
     "time": 109,
     "timeDay": 26,
     "timeWeek": 63,
@@ -516,7 +516,7 @@
       "2026-07-23": 1440,
       "2026-07-28": 1224,
       "2026-07-29": 1247,
-      "2026-08-01": 149,
+      "2026-08-01": 722,
       "2026-07-31": 1440,
       "2026-07-30": 1440
     }
@@ -526,11 +526,11 @@
     "url": "$HHF_NODE_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hhf-node-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.71%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.94%",
     "time": 657,
     "timeDay": 631,
@@ -540,7 +540,8 @@
     "dailyMinutesDown": {
       "2026-06-06": 85,
       "2026-06-08": 109,
-      "2026-07-01": 127
+      "2026-07-01": 127,
+      "2026-08-01": 0
     }
   },
   {
